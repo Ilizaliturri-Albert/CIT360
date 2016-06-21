@@ -11,6 +11,10 @@ Java collections is another framework that provides architecture to store and ma
 - Deletion
 
 ### HashMap Class
+
+- A hashmap contains values based in the key. It implements the map interface and extends AbstractMap.
+
+(https://nodejs.org/)
 ### Map Interface
 ### LinkedHashMap Class
 ### TreeMap Class
