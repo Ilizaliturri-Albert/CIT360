@@ -69,3 +69,11 @@ Java Platform 7 on the Oracle website says that the following about HashSet:
 (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Java-Collections/SetExample.java)
 ### LinkedHashSet Class
 ### TreeSet Class
+
+- TreeSet is very similiar to HashSet with the exception that TreeSet sorts the elements in ascending order. 
+- TreeSet allows null elements.
+
+
+- My Example of TreeSet:
+
+(https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Java-Collections/TreeExample.java)
