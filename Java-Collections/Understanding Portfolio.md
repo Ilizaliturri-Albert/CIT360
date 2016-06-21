@@ -12,6 +12,8 @@ Java collections is another framework that provides architecture to store and ma
 
 ### HashMap Class
 
+- HashMap is used for storing Key & value pairs. 
+- You can never know for sure how the map will be sorted.
 - A hashmap contains values based in the key. It implements the map interface and extends AbstractMap.
 - My Example of HashMap:
 
@@ -19,6 +21,13 @@ Java collections is another framework that provides architecture to store and ma
 
 
 ### TreeMap Class
+
+- TreeMap is similar to HashMap but the main difference is that TreeMap is sorted in ascending order. 
+- TreeMap is unsynchronized collection class that means it does not work with thread-safe operations.
+- My Example of TreeMap:
+
+()
+
 ### ArrayList Class
 
 - ArrayList is a class that implements a list interface. It is used for functionality and flexiblity it offers. 
