@@ -1,6 +1,4 @@
-# CIT360
-
-Hibernate
+# Hibernate
 
 Hibernate is an object-relational mapping framework for Java. 
 It is a framework for mapping an object-oriented model to a database. 
