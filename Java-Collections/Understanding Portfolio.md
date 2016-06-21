@@ -31,7 +31,7 @@ Java collections is another framework that provides architecture to store and ma
 
 (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Java-Collections/ListExample.java)
 
-
+#### Methods in ArrayList
 - The following method adds an object to an array list. 
 ```sh
 obj.add("hello");
@@ -56,9 +56,6 @@ obj.remove(3);
 ```sh
 obj.clear();
 ```
-
-
-#### Methods in ArrayList
 
 
 ### LinkedList Class
