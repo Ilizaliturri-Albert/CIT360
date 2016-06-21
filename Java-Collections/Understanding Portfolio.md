@@ -18,8 +18,6 @@ Java collections is another framework that provides architecture to store and ma
 (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Java-Collections/HashMapExample.java)
 
 
-### Map Interface
-### LinkedHashMap Class
 ### TreeMap Class
 ### ArrayList Class
 
@@ -57,9 +55,6 @@ obj.remove(3);
 obj.clear();
 ```
 
-
-### LinkedList Class
-### ListIterator Interface
 ### HashSet Class
 Java Platform 7 on the Oracle website says that the following about HashSet:
 >This class offers constant time performance for the basic operations (add, remove, contains and size), assuming the hash function >disperses the elements properly 
