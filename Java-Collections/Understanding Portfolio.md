@@ -76,8 +76,12 @@ Java Platform 7 on the Oracle website says that the following about HashSet:
 
 - TreeSet is very similiar to HashSet with the exception that TreeSet sorts the elements in ascending order. 
 - TreeSet allows null elements.
-
-
 - My Example of TreeSet:
 
 (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Java-Collections/TreeExample.java)
+
+### Iterator
+
+- Iterator is used for looping various collection classes such as HashMap, ArrayList and TreeMap. So it is similar to loops like for-loop, while loop, do-while, and for each loop.
+
+(https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Java-Collections/IteratorExample.java)
