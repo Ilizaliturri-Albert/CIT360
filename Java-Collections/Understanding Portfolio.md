@@ -13,7 +13,8 @@ Java collections is another framework that provides architecture to store and ma
 ### HashMap Class
 
 - A hashmap contains values based in the key. It implements the map interface and extends AbstractMap.
-Example of Hash Map:
+- Example of HashMap:
+
 (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Java-Collections/HashMapExample.java)
 
 
@@ -24,5 +25,10 @@ Example of Hash Map:
 ### LinkedList Class
 ### ListIterator Interface
 ### HashSet Class
+
+>This class offers constant time performance for the basic operations (add, remove, contains and size), assuming the hash function >disperses the elements properly 
+
+-Example of HashSet:
+()
 ### LinkedHashSet Class
 ### TreeSet Class
