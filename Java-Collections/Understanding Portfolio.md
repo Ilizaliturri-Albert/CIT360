@@ -26,7 +26,7 @@ Java collections is another framework that provides architecture to store and ma
 - TreeMap is unsynchronized collection class that means it does not work with thread-safe operations.
 - My Example of TreeMap:
 
-()
+(https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Java-Collections/TreeMapExample.java)
 
 ### ArrayList Class
 
