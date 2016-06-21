@@ -13,8 +13,8 @@ Java collections is another framework that provides architecture to store and ma
 ### HashMap Class
 
 - A hashmap contains values based in the key. It implements the map interface and extends AbstractMap.
-
-(https://nodejs.org/)
+Example of Hash Map:
+(https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Java-Collections/HashMapExample.java)
 ### Map Interface
 ### LinkedHashMap Class
 ### TreeMap Class
