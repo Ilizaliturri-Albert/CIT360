@@ -90,28 +90,28 @@ public class CarModel {
 	public static void main(String[] args) {
 		CarModel model = new CarModel();
 		
-		model.createCar("Ritchie", "Toyota", "Sedan", "2005");
-		model.createCar("Chris", "Toyota", "4 Door", "2010");
-		model.createCar("Jason", "Honda", "4 Door", "2012");
-		model.createCar("Hannah", "Toyota", "Sedan", "2012");
-		model.createCar("Melinda", "Honda", "4 Door", "2012");
-		model.createCar("Crozier", "Toyota", "Sedan", "2002");
-		model.createCar("Leah", "Ford", "Sedan", "2002");
+		model.createCar("Albert", "Infinti", "4 Door", "2000");
+		model.createCar("Janice", "Lexus", "Sedan", "2010");
+		model.createCar("Valerie", "BMW", "4 Door", "2009");
+		model.createCar("Becky", "Nissan", "4 Door", "2004");
+		model.createCar("Richard", "Dodge", "Truck", "2007");
+		model.createCar("Kami", "Honda", "Sedan", "2009");
+		model.createCar("Rocky", "KIA", "4 Door", "2015");
 		
-		System.out.println("Driving Ritchie's Car");
-		Car ritchieCar = model.getCarsByOwner("Ritchie").get("Ritchie");
-		ritchieCar.setDirection("Forward");
-		ritchieCar.setSpeed("15mph");
+		System.out.println("Driving Alberts's Car");
+		Car albertCar = model.getCarsByOwner("Albert").get("Albert");
+		albertCar.setDirection("Forward");
+		albertCar.setSpeed("25mph");
 		
-		model.saveCarState("Ritchie", ritchieCar);
-		Car ritchieCarLoaded = model.getCarsByOwner("Ritchie").get("Ritchie");
+		model.saveCarState("Albert", albertCar);
+		Car albertCarLoaded = model.getCarsByOwner("Albert").get("Albert");
 		System.out.println("Dashboard:");
-		System.out.println("Direction: " + ritchieCarLoaded.getDirection());
-		System.out.println("Speed: " + ritchieCarLoaded.getSpeed());
+		System.out.println("Direction: " + albertCarLoaded.getDirection());
+		System.out.println("Speed: " + albertCarLoaded.getSpeed());
 		
-//		HashMap<String, Car> carsMake = model.getCarsByMake("Toyota");
-//		HashMap<String, Car> carsModel = model.getCarsByModel("Sedan");
-//		HashMap<String, Car> carsYear = model.getCarsByYear("2002");
+//		HashMap<String, Car> carsMake = model.getCarsByMake("Infiniti");
+//		HashMap<String, Car> carsModel = model.getCarsByModel("4 Door");
+//		HashMap<String, Car> carsYear = model.getCarsByYear("2000");
 //		printCars(carsYear);
 
 	}
