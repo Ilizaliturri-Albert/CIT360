@@ -12,4 +12,6 @@
 
 ###Video Presentation:
 
+I begin at 34:32 and I end at 41:00
+
 (https://youtu.be/aa8QjEWA4VQ?t=34m32s)
