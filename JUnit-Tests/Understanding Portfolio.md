@@ -9,3 +9,7 @@
 
 ##### Loan Example (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/JUnit-Tests/Loan.java)
 ##### JUnit Test for Loan File (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/JUnit-Tests/LoanTest.java)
+
+###Video Presentation:
+
+(https://youtu.be/aa8QjEWA4VQ?t=34m32s)
