@@ -12,7 +12,7 @@ Servers can be on any port between 0 and 65535. There are excpetions because som
 
 ### Sockets
 
-- A sockets is one endpoit of a two way connection. 
+- A sockets is one endpoint of a two way connection. 
 
 
 My Examples for Client and Server Sockets:
