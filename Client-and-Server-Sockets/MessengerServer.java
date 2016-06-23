@@ -6,7 +6,9 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.HashSet;
 
-public class ChatServer {
+public class MessengerServer {
+
+    //The port that the server listens on.
 
     private static final int PORT = 9090;
 
