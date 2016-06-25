@@ -13,14 +13,14 @@ There are two was to create a thread.
 * Extend the Thread class (java.lang.Thread)
 
 ```sh
-$ import java.lang.*;
-$ public class Counter extends Thread 
-$ {                      
-$        public void run()                       
-$        {              
-$        ....            
-$        }
-$ }
+ import java.lang.*;
+ public class Counter extends Thread 
+ {                      
+        public void run()                       
+        {              
+        ....            
+        }
+ }
 ```
 
 #### Executors
