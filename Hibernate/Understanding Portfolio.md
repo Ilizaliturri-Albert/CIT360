@@ -8,7 +8,7 @@
 
 
 - My Example of Hibernate: this code I received from Brother Barneys text book. Here I connected it to my website database and I can store user information.
-- 
+
 
 SillyHibernateUseExample (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Hibernate/SillyHibernateUseExample.java)
 
