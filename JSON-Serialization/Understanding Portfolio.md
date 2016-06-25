@@ -19,3 +19,5 @@ JSON
 
 - My Example of JSON Serialization:
 
+JSON Serialization example (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/JSON-Serialization/JsonExample.java)
+
