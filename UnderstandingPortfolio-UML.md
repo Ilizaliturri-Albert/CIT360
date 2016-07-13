@@ -40,9 +40,7 @@ ________________________________________________________________________________
 ###Super state
 -	Surrounds state elements to show a state that applies to many elements.
 -	Useful to keep diagram easy to read.
--	
-
-
+	
 
 ___________________________________________________________________________________
 
