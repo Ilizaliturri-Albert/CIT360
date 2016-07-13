@@ -16,9 +16,9 @@
 
 
 
-#### Actual USE CASE DIAGRAM Example
-
+# Actual USE CASE DIAGRAM Example 
 (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Use-Case/Use%20Case.pdf)
+
 
 ____________________________________________________________________________________
 
@@ -48,6 +48,9 @@ ________________________________________________________________________________
 -	Surrounds state elements to show a state that applies to many elements.
 -	Useful to keep diagram easy to read.
 	
+# Actual STATE DIAGRAM Example 
+(https://github.com/Ilizaliturri-Albert/CIT360/blob/master/State-Diagram/State%20Diagram.pdf)
+
 
 ___________________________________________________________________________________
 
@@ -64,36 +67,8 @@ ________________________________________________________________________________
 -	Each object written above vertical line
 -	Arrows show methods and messages passed to objects
 
-
-___________________________________________________________________________________
-
-# State Diagram
-
--	Describe behavior of a system.
--	Describes all possible states of one object (usually) as events occur
-
-## When to Use
--	Use state diagrams to show object behavior through many use cases.
--	Not useful for describing collaboration of all objects in use case.
--	Not as useful for objects not used through entire system.
-
-## How to Draw
-
-### State Element: Rounded boxes representing object's state
--	Titled with state name
--	Activity section, show activities that object does in this state
-
-### Initial state
--	Dot representing objects conditions when created
-
-###Transitions
--	Arrows indicate transition to next state
-
-###Super state
--	Surrounds state elements to show a state that applies to many elements.
--	Useful to keep diagram easy to read.
-
-
+# Actual SEQUENCE DIAGRAM Example 
+(https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Sequence-Diagram/Sequence%20Diagram.pdf)
 
 ___________________________________________________________________________________
 
@@ -111,3 +86,6 @@ ________________________________________________________________________________
 -	Bar: Fork or Join
 -	Triangle: Condition
 
+
+# Actual ACTIVITY DIAGRAM Example 
+(https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Activity-Diagram/Activity%20Diagram.pdf)
