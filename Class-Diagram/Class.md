@@ -9,6 +9,7 @@
 ## When to Use
 -	Describe Classes (Objects) relationships
 -	Use in object oriented design
+
 ## How to Draw
 - Start with attributes and methods
 -	Next, decide how classes will interact
