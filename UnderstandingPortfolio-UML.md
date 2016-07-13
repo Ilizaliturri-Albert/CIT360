@@ -12,8 +12,10 @@
 
 -	Actor: Stick person with label of role.
 -	Use Case: Circle with label of action
+-	
 
-##### USE CASE DIAGRAM 
+
+#### USE CASE DIAGRAM 
 (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Use-Case/Use%20Case.pdf)
 
 ____________________________________________________________________________________
