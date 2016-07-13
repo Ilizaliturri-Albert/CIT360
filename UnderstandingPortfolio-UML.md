@@ -19,7 +19,10 @@
 # Actual USE CASE DIAGRAM Example 
 (https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Use-Case/Use%20Case.pdf)
 
+______________________________________________________________________________________
 
+# USE CASE Document
+(https://github.com/Ilizaliturri-Albert/CIT360/blob/master/Use-Case/Use%20Case%20Document.md)
 ____________________________________________________________________________________
 
 # State Diagram
